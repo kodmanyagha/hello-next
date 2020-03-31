@@ -69,12 +69,12 @@ const Index = props => {
 				}
 
 				a :global() {
-					color: red;
+					color: blue;
 				}
 
 				a:hover {
 					opacity: 1;
-					color: #0019f7;
+					color: #ff0000;
 				}
 			`}</style>
 		</Layout>
